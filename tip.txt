@@ -1,0 +1,28 @@
+brain tumor
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?select=Training
+
+kidney stone
+https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
+
+all cancer 2
+https://www.kaggle.com/datasets/arjunbasandrai/medical-scan-classification-dataset
+
+eye
+https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
+
+covid 
+https://www.kaggle.com/datasets/preetviradiya/covid19-radiography-dataset
+
+breast
+https://www.kaggle.com/datasets/vuppalaadithyasairam/ultrasound-breast-images-for-breast-cancer
+
+brain loc
+https://www.kaggle.com/code/ruslankl/brain-tumor-detection-v2-0-mask-r-cnn/notebook
+https://www.kaggle.com/code/ammarnassanalhajali/mask-r-cnn-brain-tumor-detection/notebook
+
+alzaimer
+https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset?select=AugmentedAlzheimerDataset
+
+
+lungmask
+https://www.kaggle.com/datasets/newra008/lung-mask-image-dataset/data
