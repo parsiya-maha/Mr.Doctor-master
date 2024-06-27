@@ -2,7 +2,7 @@
 
 ##### To fully review this project, you must go to the following 3 repositories and put the contents of each of them in the respective folder and place them next to these files.To use this project, you must go to the following 3 repositories and put the contents of each of them in the corresponding folder and place them next to these files.
 
-`AI`  : [click for Mr.Doctor AI repository](https://https://github.com/parsiya-maha/Mr.Doctor-AI)
+`AI`  : [click for Mr.Doctor AI repository](https://github.com/parsiya-maha/Mr.Doctor-AI)
 
 `App` : [click for Mr.Doctor App repository](https://github.com/parsiya-maha/Mr.Doctor-App)
 
