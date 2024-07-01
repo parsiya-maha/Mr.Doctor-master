@@ -17,12 +17,12 @@
 
 ###### For example, in the image below:
 
-![download zip](https://raw.githubusercontent.com/parsiya-maha/SMA/master/ForReadMe/DownloadZipGitHub.jpg)
+![download zip](https://raw.githubusercontent.com/parsiya-maha/Mr.Doctor-master/master/ForReadMe/DownloadZipGitHub.jpg)
 ----------------------------------------------------------------------------------------------------------
 
 ###### `2.` In the second solution, first you must have installed the git program and then copy the project address as shown in the picture below:
 
-![project url](https://raw.githubusercontent.com/parsiya-maha/SMA/master/ForReadMe/GitProjectUrl.jpg)
+![project url](https://raw.githubusercontent.com/parsiya-maha/Mr.Doctor-master/master/ForReadMe/GitProjectUrl.jpg)
 
 ###### Then open your cmd and type the following code (Before running the code, go to the desired address to install the project there):
 
@@ -118,6 +118,6 @@ res = ToRecognizeAndPredictImage(image_path : str)
 
 ###### But the layout of each layer in all models is as follows:
 
-![model layer](https://raw.githubusercontent.com/parsiya-maha/SMA/master/ForReadMe/model%20layer.png)
+![model layer](https://raw.githubusercontent.com/parsiya-maha/Mr.Doctor-master/master/ForReadMe/model%20layer.png)
 
 ###### As you can see, we have used layers `Conv2D` ,`MaxPooling2D` ,`Flatten` ,`Dense` and `Dropout`.
